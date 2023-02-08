@@ -51,4 +51,4 @@ Also, I have made a basic form, that will create an email with a preformatted st
 
 ## License
 
-The repository can be used under GNU General Public License v3, except the file /resources/researchers.csv, which can only be used with explicit permission by the authors.
+The repository can be used under GNU General Public License v3, except the file /resources/users.csv, which can only be used with explicit permission by the authors.
