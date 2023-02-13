@@ -1,0 +1,2 @@
+The file users.csv may only be used for the application described.
+Any other use only with the explicit permission by the author.
